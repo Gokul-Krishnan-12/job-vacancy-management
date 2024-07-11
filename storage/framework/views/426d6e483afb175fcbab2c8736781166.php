@@ -1,0 +1,1 @@
+<!-- <?php /**PATH C:\Users\Gokul\Desktop\job-vacancy-system\resources\views\welcome.blade.php ENDPATH**/ ?>
